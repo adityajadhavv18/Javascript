@@ -1,3 +1,3 @@
 # JAVA SCRIPT
 
-##Repository for javascript basic to advanced
+## Repository for javascript basic to advanced
